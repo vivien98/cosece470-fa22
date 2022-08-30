@@ -1,6 +1,6 @@
 # Principles of Blockchains
 
-Welcome! This is the repository for ECE 598 PV: Principles of Blockchains, Spring 2022 at University of Illinois, Urbana-Champaign. [Main website of the course](https://courses.grainger.illinois.edu/ece598pv/sp2022/).
+Welcome! This is the repository for COS/ECE 470 : Principles of Blockchains, Fall 2022 at Princeton University. [Main website of the course](https://blockchains.princeton.edu/principles-of-blockchains/).
 
 ## Discussion
 We use Piazza for discussion.
