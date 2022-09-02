@@ -24,7 +24,7 @@ In last part, you include transactions into blocks. In order to prevent misbehav
 - In UTXO model, check if the inputs to the transactions are not spent, i.e. exist in **State** (see below). Also check the values of inputs are not less than those of outputs.
 - In account based model, check if the balance is enough and the suggested account nonce is equal to one plus the account nonce. This check also needs **State** (see below).
 
-### State
+### State  
 
 Ledger state, or **State**, is a collection of all the required information to check transactions.  
 
